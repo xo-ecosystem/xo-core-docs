@@ -1,0 +1,11 @@
+site_name: XO Documentation
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Architecture:
+      - XO Vault Ecosystem: architecture.md
+  - Usage:
+      - Getting Started: getting-started.md
+      - Vault CLI Reference: vault-cli.md
