@@ -1,6 +1,7 @@
-site_name: XO Documentation
+site_name: XO Core Docs
+docs_dir: docs
 theme:
-  name: material
+  name: readthedocs
 
 nav:
   - Home: index.md
